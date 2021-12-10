@@ -37,6 +37,19 @@
     cursor: pointer;
   }
 
+  .fab.fa-apple{
+    position: relative;
+    left: -5px;
+    font-size: 120%;
+  }
+
+  .fab.fa-android{
+    position: relative;
+    left: -5px;
+    top: 3px;
+    font-size: 120%;
+  }
+
   header {
     height: max(600px, 500px);
     width: 95vw;
